@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class OpenAIService {
-  final String _apiKey = 'SUACHAVEAPIAQUI';
+  final String _apiKey = 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;
 
   Future<String> gerarResposta(String prompt) async {
     final response = await http.post(
