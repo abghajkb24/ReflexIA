@@ -1,0 +1,16 @@
+import 'package:flutter/material.dart';
+
+class ChatScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    // Tela de chat para interação com a IA (implemente a lógica depois)
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Chat Reflexivo'),
+      ),
+      body: Center(
+        child: Text('Em breve: Chat com IA!'),
+      ),
+    );
+  }
+}
