@@ -1,0 +1,16 @@
+import 'package:flutter/material.dart';
+
+class GalleryScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    // Tela da galeria de reflexões
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Galeria de Reflexões'),
+      ),
+      body: Center(
+        child: Text('Em breve: Galeria de reflexões!'),
+      ),
+    );
+  }
+}
