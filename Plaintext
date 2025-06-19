@@ -1,0 +1,13 @@
+reflexia_app/
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   ├── chat_screen.dart
+│   │   └── questionofday.dart
+│   ├── services/
+│   │   └── openai_service.dart
+│   └── widgets/
+│       └── message_bubble.dart
+├── pubspec.yaml
+├── README.md
