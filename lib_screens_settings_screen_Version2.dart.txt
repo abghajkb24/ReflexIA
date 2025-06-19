@@ -1,0 +1,16 @@
+import 'package:flutter/material.dart';
+
+class SettingsScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    // Tela de configuração da IA
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Configurações da IA'),
+      ),
+      body: Center(
+        child: Text('Em breve: Configurações da IA!'),
+      ),
+    );
+  }
+}
