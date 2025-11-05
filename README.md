@@ -1,26 +1,32 @@
-# ReflexIA 🧠✨
+ReflexIA 🧠✨
 
-ReflexIA é um app de IA reflexiva que provoca pensamento crítico, introspecção e criatividade. Feito em Flutter com integração à API da OpenAI.
+ReflexIA é um aplicativo de inteligência artificial reflexiva, projetado para estimular pensamento crítico, introspecção e criatividade. Desenvolvido em Flutter, com integração à OpenAI API, o app oferece conversas guiadas por IA em diferentes estilos de reflexão.
 
-## Funcionalidades
+💡 Funcionalidades
 
-- Chat reflexivo com IA (estilos: Sócrates, poético ou provocador)
-- Pergunta do dia
-- Galeria de reflexões
+Chat reflexivo com IA (modos: Sócrates, poético e provocador)
 
-## Tecnologias
+Pergunta do dia para estimular reflexão diária
 
-- Flutter
-- OpenAI API
-- Firebase (para autenticação/dados no futuro)
+Galeria de reflexões salvas pelo usuário
 
-## Rodar localmente
 
-```bash
+🧰 Tecnologias
+
+Flutter
+
+OpenAI API
+
+Firebase (planejado para autenticação e armazenamento de dados)
+
+
+🚀 Como rodar localmente
+
 git clone https://github.com/abghajkb24/ReflexIA.git
 cd reflexia_app
 flutter pub get
 flutter run
-```
 
-Feito por @abghajkb24 💭
+👨‍💻 Autor
+
+Desenvolvido por @abghajkb24 💭
