@@ -22,7 +22,8 @@ Firebase (planejado para autenticação e armazenamento de dados)
 
 🚀 Como rodar localmente
 
-git clone https://github.com/abghajkb24/ReflexIA.git
+git clone 
+https://github.com/abghajkb24/ReflexIA.git
 cd reflexia_app
 flutter pub get
 flutter run
